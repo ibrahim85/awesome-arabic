@@ -111,6 +111,7 @@ Data, databases and content related or useful to Arabic projects.
 
 * [LABR](https://github.com/mohamedadaly/labr) - Large Scale Arabic Book Reviews Dataset.
 * [Large Arabic Resources For Sentiment Analysis](https://github.com/hadyelsahar/large-arabic-sentiment-analysis-resouces).
+* [arabic-stop-words](https://github.com/mohataher/arabic-stop-words) - Large list of Arabic stop words.
 
 
 ## Awesome content
